@@ -1,7 +1,7 @@
 ## Hi, I'm Kalhara Batangala
 
 👉 Computer Engineering Undergraduate at University of Sri Jayewardenepura, Sri Lanka</br>
-👉 Passionate in Machine learning, Deep Learning and Image Processing.<br>
+👉 Passionate in AI, Machine learning, Deep Learning and Image Processing.<br>
 👉 Azure DevOps intern at Sri Lanka Telecom PLC, Headquarters - Colombo<br>
 👉 Interested in and currently studying on Mathematics, Image processing and Deep Neural Networks<br>
 
