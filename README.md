@@ -1,9 +1,10 @@
 ## Hi, I'm Kalhara Batangala
 
 👉 Computer Engineering Undergraduate at University of Sri Jayewardenepura, Sri Lanka</br>
-👉 Passionate in AI, Machine learning, Deep Learning and Image Processing.<br>
+👉 Passionate about Cloud Computing, System Administration, Machine learning, Deep Learning and Image Processing.<br>
 👉 Azure DevOps intern at Sri Lanka Telecom PLC, Headquarters - Colombo<br>
 👉 Interested in and currently studying on Mathematics, Image processing and Deep Neural Networks<br>
+👉 Experienced with high-availability clusters, including Kubernetes, ECS, EKS, and AKS
 
 [![Kalhara's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalharaBatangala&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
