@@ -1,5 +1,10 @@
 ## Hi, I'm Kalhara Batangala
 
+
+
+
+![Your GitHub Name Animation](kb.gif)
+
 👉 Computer Engineering Undergraduate at University of Sri Jayewardenepura, Sri Lanka</br>
 👉 Passionate about Cloud Computing, System Administration, Machine learning, Deep Learning and Image Processing.<br>
 👉 Azure DevOps intern at Sri Lanka Telecom PLC, Headquarters - Colombo<br>
